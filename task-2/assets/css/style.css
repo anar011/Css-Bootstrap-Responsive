@@ -1,0 +1,85 @@
+body{
+    background-color: yellow;
+}
+
+.radius{
+    
+    height: 600px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    text-align: center;      
+    
+
+}
+
+.name{
+    color: black;
+}
+
+.work{
+    color: fuchsia;
+    font-size: 12px;
+}
+
+.card-text{
+   font-size: 13px;
+}
+
+img .blake{
+    height: 40px;
+}
+
+
+
+.icon{
+    font-size: 28px;
+    
+}
+
+.icon a {
+    margin: 17px;
+    border-radius: 55px;
+    border: 20px;
+    width: 40px;
+    height: 40px;
+    
+    
+    
+
+}
+
+
+.icon a:first-child i{
+   color: blue;
+
+}
+
+.icon a:nth-child(2){
+    color: red;
+    
+
+}
+
+.icon a:nth-child(3){
+    
+
+}
+
+.icon a:nth-child(4){
+    color: rgb(198, 42, 164);
+    
+    
+
+}
+
+img{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+
+
+
+
+
+

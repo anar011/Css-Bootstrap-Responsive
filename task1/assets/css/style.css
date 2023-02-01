@@ -1,0 +1,71 @@
+
+.radius{
+    
+    height: 570px;
+    border-radius: 18px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    text-align: center;      
+}
+
+.black{
+    color: black;
+}
+
+.card-shoes h3{
+    color: black;
+
+}
+
+
+img{
+    width: 150px;
+    height: 300px;
+   
+}
+
+ul i{
+    font-size: 20px;
+    margin: 11px;  
+    
+}
+
+.card-text{
+    color: rgb(173, 169, 169);
+ 
+
+}
+
+ul .orange{
+    color: orange;
+
+}
+
+.buy-now{
+    height: 59px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius:18px ;
+    color: white;
+    padding: 10px;
+}
+
+.one{
+    background-color: rgb(9, 91, 97);
+}
+
+.two{
+  background-color: rgb(60, 55, 94);
+}
+
+.three{
+    background-color: black;
+}
+
+.for{
+    background-color: orange;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
